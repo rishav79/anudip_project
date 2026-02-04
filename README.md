@@ -1,2 +1,2 @@
 # anudip_project
-This is my hotel management project using core java, JDBC, MySQL.
+This is my Supermarket management project using core java, JDBC, MySQL.
